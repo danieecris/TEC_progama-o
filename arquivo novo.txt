@@ -1,5 +1,5 @@
-nada de novo.
+nada de novo
 
-Apenas um exemplo do endereço
+Só um exemplo 
 
 https://github.com/danieecris/TEC_progama-o.git
